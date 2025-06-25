@@ -3,7 +3,7 @@
 
 1.  **Workplace:** UTE
 2.  **Current Position:** Student
-3.  **Contact:** [dotamkhoi123@gmail.com](mailto:your-email@example.com
+3.  **Contact:** dotamkhoi123@gmail.com
 
 
 ---
@@ -11,10 +11,10 @@
 ### 🌐 Socials
 
 <p align="left">
-  <a href="[https://www.facebook.com/your-usernam](https://www.facebook.com/khoi.o.819669/)e" target="_blank">
+  <a href="https://www.facebook.com/khoi.o.819669/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="[https://www.instagram.com/your-username" target="_blank](https://www.instagram.com/dokhoi2542/)">
+  <a href="https://www.instagram.com/dokhoi2542/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
